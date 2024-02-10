@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The Most Popular Fields of Study for Bachelors Degrees Are Not The Most Lucrative Jobs.</h1>
+
+<div id="observablehq-viewof-Year2-1ff952ac"></div>
+<div id="observablehq-working_test_map-1ff952ac"></div>
+<p>Credit: <a href="https://observablehq.com/d/fdbcde3e5d72cb80@374">Cinemas in the United States (2003-2010) by Enoch Crow&#039;s Workspace</a></p>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/fdbcde3e5d72cb80@374.js?v=4&api_key=3261d4704b840f50d7122824e881d7bf2164fe76";
+new Runtime().module(define, name => {
+  if (name === "viewof Year2") return new Inspector(document.querySelector("#observablehq-viewof-Year2-1ff952ac"));
+  if (name === "working_test_map") return new Inspector(document.querySelector("#observablehq-working_test_map-1ff952ac"));
+  return ["year_data","test_map","total_num_theaters","test_map_2"].includes(name);
+});
+</script>
+
+<p>The dataset was retrieved from <a href="https://collegescorecard.ed.gov/data/">Collegescorecard</a> and they describe the dataset <a href="https://collegescorecard.ed.gov/data/documentation/">here</a>. </p> 
+<p>The graphics were made with <a href="https://observablehq.com/plot/">Observable Plot</a>. </p>
+
+<p>The dataset was filtered with python and Excel.</p>
+
+</body>
+</html>
