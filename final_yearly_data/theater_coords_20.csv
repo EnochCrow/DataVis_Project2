@@ -1,0 +1,90 @@
+zip,est,lat,lng,city,state_name
+6901,3,41.05349,-73.53845,Stamford,Connecticut
+7054,3,40.85527,-74.40239,Parsippany,New Jersey
+7470,3,40.94805,-74.24504,Wayne,New Jersey
+10003,5,40.73184,-73.98915,New York,New York
+11211,3,40.71428,-73.94602,Brooklyn,New York
+13045,3,42.58692,-76.19029,Cortland,New York
+13066,3,43.03297,-76.00259,Fayetteville,New York
+14226,3,42.97078,-78.79844,Buffalo,New York
+16101,3,40.98776,-80.28814,New Castle,Pennsylvania
+19106,4,39.94589,-75.14224,Philadelphia,Pennsylvania
+20002,3,38.90511,-76.98431,Washington,District of Columbia
+22031,3,38.85954,-77.2599,Fairfax,Virginia
+27265,3,36.00947,-80.03272,High Point,North Carolina
+27407,3,36.01124,-79.87588,Greensboro,North Carolina
+27514,5,35.96776,-79.04406,Chapel Hill,North Carolina
+28210,3,35.12969,-80.8548,Charlotte,North Carolina
+31904,4,32.55189,-85.00009,Columbus,Georgia
+32720,3,29.01775,-81.37802,Deland,Florida
+32725,4,28.88368,-81.25061,Deltona,Florida
+33139,3,25.78523,-80.15085,Miami Beach,Florida
+33172,3,25.78655,-80.3623,Miami,Florida
+33431,3,26.37996,-80.1028,Boca Raton,Florida
+37129,3,35.92556,-86.44098,Murfreesboro,Tennessee
+38134,3,35.17674,-89.85992,Memphis,Tennessee
+39157,3,32.42537,-90.16685,Ridgeland,Mississippi
+44720,3,40.90112,-81.43259,North Canton,Ohio
+48152,3,42.42597,-83.37433,Livonia,Michigan
+49015,3,42.27467,-85.23115,Battle Creek,Michigan
+49423,3,42.73964,-86.09015,Holland,Michigan
+53719,3,43.0281,-89.50003,Madison,Wisconsin
+54701,4,44.7432,-91.50899,Eau Claire,Wisconsin
+55122,3,44.80326,-93.1962,Saint Paul,Minnesota
+56001,4,44.13193,-93.97789,Mankato,Minnesota
+57701,3,44.1209,-103.20562,Rapid City,South Dakota
+60010,3,42.15255,-88.16519,Barrington,Illinois
+65806,3,37.20567,-93.29847,Springfield,Missouri
+67202,3,37.68668,-97.33521,Wichita,Kansas
+67950,3,37.06277,-101.86765,Elkhart,Kansas
+74401,3,35.72304,-95.45431,Muskogee,Oklahoma
+75067,3,33.01416,-97.00268,Lewisville,Texas
+75070,4,33.15587,-96.69742,Mckinney,Texas
+75220,3,32.86692,-96.87571,Dallas,Texas
+75254,3,32.94571,-96.80127,Dallas,Texas
+77338,3,30.00858,-95.28351,Humble,Texas
+78041,3,27.55489,-99.46889,Laredo,Texas
+78230,3,29.5455,-98.55571,San Antonio,Texas
+78660,3,30.44361,-97.59558,Pflugerville,Texas
+78666,3,29.8826,-97.97974,San Marcos,Texas
+79720,3,32.20171,-101.51395,Big Spring,Texas
+79912,3,31.84839,-106.53272,El Paso,Texas
+80206,3,39.73041,-104.95258,Denver,Colorado
+81623,3,39.2451,-107.20921,Carbondale,Colorado
+83001,3,43.4094,-110.60884,Jackson,Wyoming
+83702,3,43.66821,-116.16493,Boise,Idaho
+84101,3,40.75628,-111.89996,Salt Lake City,Utah
+85281,3,33.42805,-111.93157,Tempe,Arizona
+86403,3,34.47703,-114.34423,Lake Havasu City,Arizona
+88001,4,32.29026,-106.75318,Las Cruces,New Mexico
+90024,5,34.06565,-118.43521,Los Angeles,California
+90025,3,34.04551,-118.44583,Los Angeles,California
+90027,4,34.12515,-118.29049,Los Angeles,California
+90028,4,34.09982,-118.3268,Los Angeles,California
+90036,3,34.07013,-118.34978,Los Angeles,California
+90046,3,34.10752,-118.36575,Los Angeles,California
+90048,4,34.07293,-118.3727,Los Angeles,California
+90211,5,34.06498,-118.38293,Beverly Hills,California
+90401,4,34.01584,-118.49251,Santa Monica,California
+91206,3,34.16076,-118.21311,Glendale,California
+91910,3,32.63653,-117.06301,Chula Vista,California
+92037,4,32.85257,-117.25104,La Jolla,California
+92591,3,33.53432,-117.1092,Temecula,California
+92821,3,33.92997,-117.86986,Brea,California
+93101,5,34.41925,-119.70808,Santa Barbara,California
+94102,4,37.77956,-122.41931,San Francisco,California
+94103,8,37.77299,-122.41136,San Francisco,California
+94704,3,37.8664,-122.26088,Berkeley,California
+94952,5,38.23007,-122.76338,Petaluma,California
+95476,4,38.25531,-122.46055,Sonoma,California
+95630,3,38.66558,-121.141,Folsom,California
+95945,3,39.19426,-120.98199,Grass Valley,California
+96707,4,21.36455,-158.08141,Kapolei,Hawaii
+97301,4,44.94948,-123.00439,Salem,Oregon
+97330,3,44.63796,-123.27814,Corvallis,Oregon
+97401,4,44.06803,-123.08171,Eugene,Oregon
+97520,3,42.15472,-122.53168,Ashland,Oregon
+98122,3,47.60985,-122.29569,Seattle,Washington
+98188,3,47.44754,-122.27398,Seattle,Washington
+98368,4,48.03879,-122.84406,Port Townsend,Washington
+99801,3,58.39785,-134.05472,Juneau,Alaska
